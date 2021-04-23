@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Hoạt động sinh viên - [Nhóm]</title>
+		<item>
+			<param>job/backend/catalogue/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>job/backend/catalogue/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>job/backend/catalogue/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>job/backend/catalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Hoạt động sinh viên - [Chi tiết bài viết]</title>
+		<item>
+			<param>job/backend/job/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>job/backend/job/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>job/backend/job/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>job/backend/job/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>job/backend/job/duplicate</param>
+			<description>Sao chép</description>
+		</item>
+		<item>
+			<param>job/backend/job/viewall</param>
+			<description>Xem toàn bộ</description>
+		</item>
+	</permissions>
+</module>
